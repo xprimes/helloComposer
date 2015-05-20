@@ -2,7 +2,7 @@
 
 apps4: [rails-devise]
 announcements: [none]
-dev_webserver: [unicorn]
+dev_webserver: [webrick]
 prod_webserver: [unicorn]
 database: [postgresql]
 templates: [slim]
