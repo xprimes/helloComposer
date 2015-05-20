@@ -177,7 +177,7 @@ end
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'devise_invitable'
-gem 'pg'
+
 gem 'simple_form'
 gem 'slim-rails'
 
